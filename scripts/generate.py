@@ -87,7 +87,7 @@ def generate_daily_code() -> None:
         print("Error: GEMINI_API_KEY environment variable is not set.", file=sys.stderr)
         sys.exit(1)
 
-    model_name = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+    model_name = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
     topic = get_next_topic(PROJECT_ROOT)
     print(f"Selected Topic: '{topic}'")
 
