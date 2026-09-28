@@ -3,7 +3,6 @@ import re
 import subprocess
 import sys
 import time
-import random
 from datetime import date
 from pathlib import Path
 
@@ -16,9 +15,18 @@ DAILY_DIR = ROOT / "daily"
 
 PRIMARY_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 EXTRA_MODELS = [m.strip() for m in os.getenv("GEMINI_FALLBACK_MODELS", "").split(",") if m.strip()]
-MAX_ATTEMPTS_PER_MODEL = 5
-BASE_DELAY = 10  # seconds
-RETRYABLE = {429, 500, 502, 503, 504}
+
+ROUNDS = 4
+ROUND_DELAYS = [20, 45, 90]   # seconds between rounds
+TIME_BUDGET = 12 * 60         # total seconds
+RETRYABLE = {500, 502, 503, 504}
+
+HARD_SKIP = ("image", "tts", "live", "audio", "embedding", "robotics", "computer-use", "aqa")
+DEMOTE = ("omni", "preview", "exp")
+
+
+def log(msg: str) -> None:
+    print(msg, flush=True)
 
 
 def read_lines(path: Path) -> list[str]:
@@ -34,7 +42,7 @@ def pick_topic() -> str:
     used = set(read_lines(USED_FILE))
     unused = [t for t in topics if t not in used]
     if not unused:
-        print("All topics used. Resetting the list.")
+        log("All topics used. Resetting the list.")
         USED_FILE.write_text("", encoding="utf-8")
         unused = topics
     return unused[0]
@@ -49,21 +57,25 @@ def slugify(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")[:50]
 
 
-def discover_fallbacks(client, exclude: set[str]) -> list[str]:
-    """Find other flash models available to this API key."""
-    found = []
+def discover_models(client, exclude: set[str]) -> list[str]:
+    """Other text models this key can use: stable lite, stable flash, then experimental ones."""
+    stable, demoted = [], []
     try:
         for m in client.models.list():
             name = (m.name or "").replace("models/", "")
-            if "flash" not in name:
+            if "gemini" not in name or "flash" not in name:
                 continue
-            if any(x in name for x in ("image", "tts", "live", "audio", "embedding")):
+            if name in exclude or any(x in name for x in HARD_SKIP):
                 continue
-            if name not in exclude:
-                found.append(name)
+            actions = getattr(m, "supported_actions", None)
+            if actions and "generateContent" not in actions:
+                continue
+            (demoted if any(x in name for x in DEMOTE) else stable).append(name)
     except Exception as e:
-        print(f"Could not list models: {e}")
-    return sorted(found, reverse=True)[:2]
+        log(f"Could not list models: {e}")
+
+    stable.sort(key=lambda n: ("lite" not in n, n))
+    return stable[:3] + sorted(demoted)[:1]
 
 
 def error_code(e: Exception):
@@ -74,29 +86,24 @@ def error_code(e: Exception):
     return int(m.group(1)) if m else None
 
 
-def generate_with_model(client, model: str, prompt: str):
-    for attempt in range(1, MAX_ATTEMPTS_PER_MODEL + 1):
-        print(f"Requesting '{model}' (attempt {attempt}/{MAX_ATTEMPTS_PER_MODEL})...")
-        try:
-            resp = client.models.generate_content(model=model, contents=prompt)
-            text = (resp.text or "").strip()
-            if len(text) < 200:
-                raise ValueError("Response too short/empty")
-            return text
-        except Exception as e:
-            code = error_code(e)
-            print(f"  Failed: {str(e)[:200]}")
-            if code == 404:
-                print("  Model not available, moving to next model.")
-                return None
-            if code is not None and code not in RETRYABLE and not isinstance(e, ValueError):
-                print("  Non-retryable error, moving to next model.")
-                return None
-            if attempt < MAX_ATTEMPTS_PER_MODEL:
-                delay = BASE_DELAY * (2 ** (attempt - 1)) + random.uniform(0, 3)
-                print(f"  Waiting {delay:.0f}s before retry...")
-                time.sleep(delay)
-    return None
+def try_model(client, model: str, prompt: str):
+    """One attempt. Returns (text, status): status is ok | retry | quota | dead."""
+    log(f"Requesting '{model}'...")
+    try:
+        resp = client.models.generate_content(model=model, contents=prompt)
+        text = (resp.text or "").strip()
+        if len(text) < 200:
+            log("  Response too short, will retry later.")
+            return None, "retry"
+        return text, "ok"
+    except Exception as e:
+        code = error_code(e)
+        log(f"  Failed ({code}): {str(e)[:160]}")
+        if code == 429:
+            return None, "quota"
+        if code in RETRYABLE:
+            return None, "retry"
+        return None, "dead"   # 404, 400, 403 etc.
 
 
 def main() -> None:
@@ -108,11 +115,11 @@ def main() -> None:
     DAILY_DIR.mkdir(exist_ok=True)
 
     if not os.getenv("FORCE") and any(DAILY_DIR.glob(f"{today}-*.md")):
-        print(f"A file for {today} already exists. Skipping.")
+        log(f"A file for {today} already exists. Skipping.")
         return
 
     topic = pick_topic()
-    print(f"Selected topic: '{topic}'")
+    log(f"Selected topic: '{topic}'")
 
     prompt = (
         f"Write one small, correct, well-commented, runnable code example for: {topic}.\n"
@@ -127,20 +134,36 @@ def main() -> None:
     client = genai.Client(api_key=api_key)
 
     models = [PRIMARY_MODEL] + [m for m in EXTRA_MODELS if m != PRIMARY_MODEL]
-    content = None
-    tried = set()
-    for model in models:
-        tried.add(model)
-        content = generate_with_model(client, model, prompt)
-        if content:
-            break
+    models += discover_models(client, set(models))
+    log(f"Model order: {models}")
 
-    if not content:
-        for model in discover_fallbacks(client, tried):
-            print(f"Trying auto-discovered fallback: {model}")
-            content = generate_with_model(client, model, prompt)
-            if content:
+    strikes = {m: 0 for m in models}
+    start = time.time()
+    content = None
+
+    for rnd in range(ROUNDS):
+        log(f"--- Round {rnd + 1}/{ROUNDS} ---")
+        for model in list(models):
+            if time.time() - start > TIME_BUDGET:
                 break
+            text, status = try_model(client, model, prompt)
+            if status == "ok":
+                content = text
+                break
+            if status == "dead":
+                models.remove(model)
+            elif status == "quota":
+                strikes[model] += 1
+                if strikes[model] >= 2:
+                    log(f"  Dropping '{model}' (quota).")
+                    models.remove(model)
+
+        if content or not models or time.time() - start > TIME_BUDGET:
+            break
+        if rnd < ROUNDS - 1:
+            delay = ROUND_DELAYS[min(rnd, len(ROUND_DELAYS) - 1)]
+            log(f"All models busy. Waiting {delay}s...")
+            time.sleep(delay)
 
     if not content:
         sys.exit("Fatal: all models failed. Nothing committed.")
@@ -148,7 +171,7 @@ def main() -> None:
     out_file = DAILY_DIR / f"{today}-{slugify(topic)}.md"
     out_file.write_text(content + "\n", encoding="utf-8")
     mark_used(topic)
-    print(f"Created: {out_file.relative_to(ROOT)}")
+    log(f"Created: {out_file.relative_to(ROOT)}")
 
     readme_script = ROOT / "scripts" / "update_readme.py"
     if readme_script.exists():
