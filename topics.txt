@@ -1,0 +1,60 @@
+Java OOP: Inheritance and Method Overriding
+Java OOP: Interfaces and Abstract Classes
+Java OOP: Encapsulation and Access Modifiers
+Java OOP: Polymorphism in Action
+Java Collections: ArrayList vs LinkedList Performance
+Java Collections: HashMap Internal Mechanics and Usage
+Java Collections: PriorityQueue and Min-Heap
+Java Collections: HashSet and Custom Equals/HashCode
+Spring Boot: RESTful Controller with @RestController
+Spring Boot: Dependency Injection using Constructor Injection
+Spring Boot: Service Layer and Business Logic Separation
+Spring Boot: Exception Handling with @ControllerAdvice
+Spring Boot: Data Validation with @Valid
+Spring Boot: Configuration Properties with @ConfigurationProperties
+React (Vite): Functional Components and Props
+React (Vite): Managing State with useState Hook
+React (Vite): Side Effects with useEffect Hook
+React (Vite): Custom Hook for Form Input Handling
+React (Vite): Component Composition and Children Prop
+React (Vite): Performance Optimization with useMemo and useCallback
+JavaScript: Promises and Async/Await Error Handling
+JavaScript: Array Methods (map, filter, reduce) Deep Dive
+JavaScript: Closures and Lexical Scope
+JavaScript: ES6 Modules and Exports
+JavaScript: Event Delegation Pattern
+JavaScript: Debouncing and Throttling Functions
+PHP PDO: Secure Database Connection
+PHP PDO: Prepared Statements for Preventing SQL Injection
+PHP PDO: Executing SELECT Queries and Fetching Data
+PHP PDO: Database Transactions with Commit and Rollback
+PHP PDO: Inserting Records and Getting Last Insert ID
+PHP PDO: Updating and Deleting Records Safely
+Firebase: Firestore CRUD Operations in JavaScript
+Firebase: Authentication with Email and Password
+Firebase: Realtime Database Listener Subscriptions
+Firebase: Firestore Querying and Filtering
+SQL: INNER JOIN vs LEFT JOIN
+SQL: GROUP BY and HAVING Clause Aggregations
+SQL: Window Functions ROW_NUMBER and RANK
+SQL: Subqueries and Common Table Expressions (CTEs)
+SQL: Database Indexing Strategies
+SQL: Database Normalization (1NF, 2NF, 3NF)
+DSA: Two Pointers Technique for Two Sum
+DSA: Sliding Window Approach for Maximum Subarray
+DSA: Binary Search Algorithm Implementation
+DSA: Valid Anagram Check using Hash Map
+DSA: In-Place String Reversal
+DSA: Recursion Basics and Call Stack Visualization
+DSA: Linked List Reversal Algorithm
+DSA: Binary Tree Inorder Traversal
+DSA: Stack Implementation and Application
+DSA: Queue Implementation using Array
+DSA: Dynamic Programming - Climbing Stairs Problem
+DSA: Dynamic Programming - House Robber Problem
+DSA: Merge Sort Algorithm
+DSA: Quick Sort Partitioning Algorithm
+Git: Interactive Rebasing and Squashing Commits
+Git: Stashing Changes and Branch Switching
+CSS Layouts: Flexbox Responsive Card Layout
+CSS Layouts: CSS Grid Auto-Fit and Responsive Layouts
