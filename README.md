@@ -24,9 +24,11 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 0)
+## 📚 Daily Code Index (Total: 1)
 
-_No daily code snippets generated yet. The first automated run will populate this table!_
+| Date | Topic | Link |
+| :--- | :--- | :--- |
+| `2026-09-28` | Java OOP: Inheritance and Method Overriding | [View Code Snippet](daily/2026-09-28-java-oop-inheritance-and-method-overriding.md) |
 
 ---
 
