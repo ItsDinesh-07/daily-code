@@ -24,10 +24,11 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 2)
+## 📚 Daily Code Index (Total: 3)
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-09-30` | Java Encapsulation and Access Modifiers | [View Code Snippet](daily/2026-09-30-java-oop-encapsulation-and-access-modifiers.md) |
 | `2026-09-29` | Java OOP: Interfaces and Abstract Classes | [View Code Snippet](daily/2026-09-29-java-oop-interfaces-and-abstract-classes.md) |
 | `2026-09-28` | Java OOP: Inheritance and Method Overriding | [View Code Snippet](daily/2026-09-28-java-oop-inheritance-and-method-overriding.md) |
 
