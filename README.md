@@ -24,10 +24,11 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 4)
+## 📚 Daily Code Index (Total: 5)
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-10-02` | Java Collections: ArrayList vs LinkedList Performance | [View Code Snippet](daily/2026-10-02-java-collections-arraylist-vs-linkedlist-performan.md) |
 | `2026-10-01` | Java OOP: Polymorphism in Action | [View Code Snippet](daily/2026-10-01-java-oop-polymorphism-in-action.md) |
 | `2026-09-30` | Java Encapsulation and Access Modifiers | [View Code Snippet](daily/2026-09-30-java-oop-encapsulation-and-access-modifiers.md) |
 | `2026-09-29` | Java OOP: Interfaces and Abstract Classes | [View Code Snippet](daily/2026-09-29-java-oop-interfaces-and-abstract-classes.md) |
