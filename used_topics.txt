@@ -4,3 +4,4 @@ Java OOP: Encapsulation and Access Modifiers
 Java OOP: Polymorphism in Action
 Java Collections: ArrayList vs LinkedList Performance
 Java Collections: HashMap Internal Mechanics and Usage
+Java Collections: PriorityQueue and Min-Heap
