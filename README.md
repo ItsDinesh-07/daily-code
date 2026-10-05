@@ -24,10 +24,11 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 7)
+## 📚 Daily Code Index (Total: 8)
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-10-05` | Java Collections: HashSet and Custom Equals/HashCode | [View Code Snippet](daily/2026-10-05-java-collections-hashset-and-custom-equals-hashcod.md) |
 | `2026-10-04` | Java PriorityQueue as a Min-Heap | [View Code Snippet](daily/2026-10-04-java-collections-priorityqueue-and-min-heap.md) |
 | `2026-10-03` | Java HashMap: Internal Mechanics and Usage | [View Code Snippet](daily/2026-10-03-java-collections-hashmap-internal-mechanics-and-us.md) |
 | `2026-10-02` | Java Collections: ArrayList vs LinkedList Performance | [View Code Snippet](daily/2026-10-02-java-collections-arraylist-vs-linkedlist-performan.md) |
