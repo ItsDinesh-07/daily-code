@@ -24,10 +24,11 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 11)
+## 📚 Daily Code Index (Total: 12)
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-10-09` | Spring Boot @ControllerAdvice Exception Handling | [View Code Snippet](daily/2026-10-09-spring-boot-exception-handling-with-controlleradvi.md) |
 | `2026-10-08` | Spring Boot Service Layer Pattern | [View Code Snippet](daily/2026-10-08-spring-boot-service-layer-and-business-logic-separ.md) |
 | `2026-10-07` | Spring Boot Constructor Injection | [View Code Snippet](daily/2026-10-07-spring-boot-dependency-injection-using-constructor.md) |
 | `2026-10-06` | Spring Boot REST Controller Example | [View Code Snippet](daily/2026-10-06-spring-boot-restful-controller-with-restcontroller.md) |
