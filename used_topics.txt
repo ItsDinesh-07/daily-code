@@ -10,3 +10,4 @@ Spring Boot: RESTful Controller with @RestController
 Spring Boot: Dependency Injection using Constructor Injection
 Spring Boot: Service Layer and Business Logic Separation
 Spring Boot: Exception Handling with @ControllerAdvice
+Spring Boot: Data Validation with @Valid
