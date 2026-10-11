@@ -1,6 +1,8 @@
 # 🚀 Daily Code Automation
 
 > An automated repository that commits one practical, clean, and useful code snippet every single day powered by the Gemini API and GitHub Actions.
+>
+> 📚 **Explore Extras:** Browse hands-on practice questions and technical interview notes in the [Extras Index](extras/INDEX.md).
 
 ![Daily Code Cron](https://img.shields.io/badge/Automation-GitHub%20Actions-blue?style=for-the-badge&logo=githubactions)
 ![Python](https://img.shields.io/badge/Python-3.12-brightgreen?style=for-the-badge&logo=python)
@@ -26,9 +28,11 @@
 
 ## 📚 Daily Code Index (Total: 14)
 
+> 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
+
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-10-11` | Type-Safe Configuration with Spring Boot @ConfigurationProperties | [View Code Snippet](daily/2026-10-11-spring-boot-configuration-properties-with-configur.md) |
+| `2026-10-11` | Type-Safe Configuration with Spring Boot @ConfigurationProperties | [Code](daily/2026-10-11-spring-boot-configuration-properties-with-configur.md) · [Practice](extras/practice/2026-10-11-spring-boot-configuration-properties-with-configur-practice.md) |
 | `2026-10-10` | Spring Boot Data Validation with @Valid | [View Code Snippet](daily/2026-10-10-spring-boot-data-validation-with-valid.md) |
 | `2026-10-09` | Spring Boot @ControllerAdvice Exception Handling | [View Code Snippet](daily/2026-10-09-spring-boot-exception-handling-with-controlleradvi.md) |
 | `2026-10-08` | Spring Boot Service Layer Pattern | [View Code Snippet](daily/2026-10-08-spring-boot-service-layer-and-business-logic-separ.md) |

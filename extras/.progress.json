@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-11",
+  "topic": "Type-Safe Configuration with Spring Boot @ConfigurationProperties",
+  "slug": "spring-boot-configuration-properties-with-configur",
+  "target": 2,
+  "done": [
+    "main",
+    "tests"
+  ]
+}
