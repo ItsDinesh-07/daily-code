@@ -24,10 +24,11 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 13)
+## 📚 Daily Code Index (Total: 14)
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-10-11` | Type-Safe Configuration with Spring Boot @ConfigurationProperties | [View Code Snippet](daily/2026-10-11-spring-boot-configuration-properties-with-configur.md) |
 | `2026-10-10` | Spring Boot Data Validation with @Valid | [View Code Snippet](daily/2026-10-10-spring-boot-data-validation-with-valid.md) |
 | `2026-10-09` | Spring Boot @ControllerAdvice Exception Handling | [View Code Snippet](daily/2026-10-09-spring-boot-exception-handling-with-controlleradvi.md) |
 | `2026-10-08` | Spring Boot Service Layer Pattern | [View Code Snippet](daily/2026-10-08-spring-boot-service-layer-and-business-logic-separ.md) |
