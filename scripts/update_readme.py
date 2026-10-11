@@ -30,6 +30,9 @@ def build_readme_content() -> str:
     daily_dir = root_dir / "daily"
     daily_dir.mkdir(parents=True, exist_ok=True)
 
+    extras_practice_dir = root_dir / "extras" / "practice"
+    extras_notes_dir = root_dir / "extras" / "notes"
+
     daily_files = list(daily_dir.glob("*.md"))
 
     # Extract info for each file
@@ -40,11 +43,29 @@ def build_readme_content() -> str:
         date_str = match.group(1) if match else "Unknown Date"
         title = extract_title_from_file(f)
         rel_path = f"daily/{f.name}"
+
+        # Check for matching practice and notes files
+        stem = f.stem
+        practice_file = extras_practice_dir / f"{stem}-practice.md"
+        notes_file = extras_notes_dir / f"{stem}-notes.md"
+
+        links = [f"[Code]({rel_path})"]
+        if practice_file.exists():
+            links.append(f"[Practice](extras/practice/{practice_file.name})")
+        if notes_file.exists():
+            links.append(f"[Notes](extras/notes/{notes_file.name})")
+
+        if len(links) > 1:
+            links_str = " · ".join(links)
+        else:
+            links_str = f"[View Code Snippet]({rel_path})"
+
         entries.append({
             "date": date_str,
             "filename": f.name,
             "title": title,
-            "path": rel_path
+            "path": rel_path,
+            "links_str": links_str
         })
 
     # Sort newest first (by date and filename descending)
@@ -59,7 +80,7 @@ def build_readme_content() -> str:
             "| :--- | :--- | :--- |"
         ]
         for entry in entries:
-            table_rows.append(f"| `{entry['date']}` | {entry['title']} | [View Code Snippet]({entry['path']}) |")
+            table_rows.append(f"| `{entry['date']}` | {entry['title']} | {entry['links_str']} |")
         table_content = "\n".join(table_rows)
     else:
         table_content = "_No daily code snippets generated yet. The first automated run will populate this table!_"
@@ -67,6 +88,8 @@ def build_readme_content() -> str:
     readme_markdown = f"""# 🚀 Daily Code Automation
 
 > An automated repository that commits one practical, clean, and useful code snippet every single day powered by the Gemini API and GitHub Actions.
+>
+> 📚 **Explore Extras:** Browse hands-on practice questions and technical interview notes in the [Extras Index](extras/INDEX.md).
 
 ![Daily Code Cron](https://img.shields.io/badge/Automation-GitHub%20Actions-blue?style=for-the-badge&logo=githubactions)
 ![Python](https://img.shields.io/badge/Python-3.12-brightgreen?style=for-the-badge&logo=python)
@@ -91,6 +114,8 @@ def build_readme_content() -> str:
 ---
 
 ## 📚 Daily Code Index (Total: {total_count})
+
+> 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 {table_content}
 
