@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-12",
-  "topic": "React (Vite): Functional Components and Props",
-  "slug": "react-vite-functional-components-and-props",
-  "target": 1,
+  "date": "2026-10-13",
+  "topic": "React (Vite): Managing State with useState Hook",
+  "slug": "react-vite-managing-state-with-usestate-hook",
+  "target": 3,
   "done": [
     "main"
   ]
