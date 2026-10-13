@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-10-13` | Managing State with React useState | [Code](daily/2026-10-13-react-vite-managing-state-with-usestate-hook.md) · [Practice](extras/practice/2026-10-13-react-vite-managing-state-with-usestate-hook-practice.md) |
+| `2026-10-13` | Managing State with React useState | [Code](daily/2026-10-13-react-vite-managing-state-with-usestate-hook.md) · [Practice](extras/practice/2026-10-13-react-vite-managing-state-with-usestate-hook-practice.md) · [Notes](extras/notes/2026-10-13-react-vite-managing-state-with-usestate-hook-notes.md) |
 | `2026-10-12` | React Functional Components and Props | [View Code Snippet](daily/2026-10-12-react-vite-functional-components-and-props.md) |
 | `2026-10-11` | Type-Safe Configuration with Spring Boot @ConfigurationProperties | [Code](daily/2026-10-11-spring-boot-configuration-properties-with-configur.md) · [Practice](extras/practice/2026-10-11-spring-boot-configuration-properties-with-configur-practice.md) |
 | `2026-10-10` | Spring Boot Data Validation with @Valid | [View Code Snippet](daily/2026-10-10-spring-boot-data-validation-with-valid.md) |
