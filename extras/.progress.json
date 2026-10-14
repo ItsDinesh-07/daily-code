@@ -1,11 +1,9 @@
 {
-  "date": "2026-10-13",
-  "topic": "React (Vite): Managing State with useState Hook",
-  "slug": "react-vite-managing-state-with-usestate-hook",
+  "date": "2026-10-14",
+  "topic": "React (Vite): Side Effects with useEffect Hook",
+  "slug": "react-vite-side-effects-with-useeffect-hook",
   "target": 3,
   "done": [
-    "main",
-    "tests",
-    "notes"
+    "main"
   ]
 }

@@ -14,3 +14,4 @@ Spring Boot: Data Validation with @Valid
 Spring Boot: Configuration Properties with @ConfigurationProperties
 React (Vite): Functional Components and Props
 React (Vite): Managing State with useState Hook
+React (Vite): Side Effects with useEffect Hook
