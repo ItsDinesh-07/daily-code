@@ -4,6 +4,7 @@
   "slug": "react-vite-side-effects-with-useeffect-hook",
   "target": 3,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
