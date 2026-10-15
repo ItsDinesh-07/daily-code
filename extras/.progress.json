@@ -1,11 +1,9 @@
 {
-  "date": "2026-10-14",
-  "topic": "React (Vite): Side Effects with useEffect Hook",
-  "slug": "react-vite-side-effects-with-useeffect-hook",
-  "target": 3,
+  "date": "2026-10-15",
+  "topic": "React (Vite): Custom Hook for Form Input Handling",
+  "slug": "react-vite-custom-hook-for-form-input-handling",
+  "target": 4,
   "done": [
-    "main",
-    "tests",
-    "notes"
+    "main"
   ]
 }
