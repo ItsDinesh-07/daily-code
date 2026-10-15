@@ -4,6 +4,7 @@
   "slug": "react-vite-custom-hook-for-form-input-handling",
   "target": 4,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
