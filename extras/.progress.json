@@ -4,6 +4,7 @@
   "slug": "react-vite-component-composition-and-children-prop",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
