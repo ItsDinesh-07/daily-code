@@ -1,12 +1,9 @@
 {
-  "date": "2026-10-15",
-  "topic": "React (Vite): Custom Hook for Form Input Handling",
-  "slug": "react-vite-custom-hook-for-form-input-handling",
-  "target": 4,
+  "date": "2026-10-16",
+  "topic": "React (Vite): Component Composition and Children Prop",
+  "slug": "react-vite-component-composition-and-children-prop",
+  "target": 2,
   "done": [
-    "main",
-    "tests",
-    "notes",
-    "index"
+    "main"
   ]
 }

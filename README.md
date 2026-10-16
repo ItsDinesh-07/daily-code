@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 18)
+## 📚 Daily Code Index (Total: 19)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-10-16` | React Vite: Component Composition and Children Prop | [View Code Snippet](daily/2026-10-16-react-vite-component-composition-and-children-prop.md) |
 | `2026-10-15` | Custom Hook for Form Input Handling | [Code](daily/2026-10-15-react-vite-custom-hook-for-form-input-handling.md) · [Practice](extras/practice/2026-10-15-react-vite-custom-hook-for-form-input-handling-practice.md) · [Notes](extras/notes/2026-10-15-react-vite-custom-hook-for-form-input-handling-notes.md) |
 | `2026-10-14` | React useEffect Side Effect Example | [Code](daily/2026-10-14-react-vite-side-effects-with-useeffect-hook.md) · [Practice](extras/practice/2026-10-14-react-vite-side-effects-with-useeffect-hook-practice.md) · [Notes](extras/notes/2026-10-14-react-vite-side-effects-with-useeffect-hook-notes.md) |
 | `2026-10-13` | Managing State with React useState | [Code](daily/2026-10-13-react-vite-managing-state-with-usestate-hook.md) · [Practice](extras/practice/2026-10-13-react-vite-managing-state-with-usestate-hook-practice.md) · [Notes](extras/notes/2026-10-13-react-vite-managing-state-with-usestate-hook-notes.md) |
