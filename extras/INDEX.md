@@ -4,6 +4,9 @@
 
 | Date | Topic | Resource | Link |
 | :--- | :--- | :--- | :--- |
+| `2026-10-17` | React Performance Optimization: useMemo and useCallback | Practice Questions | [View Resource](practice/2026-10-17-react-vite-performance-optimization-with-usememo-a-practice.md) |
+| `2026-10-17` | React Performance Optimization: useMemo and useCallback | Notes & Interview Tips | [View Resource](notes/2026-10-17-react-vite-performance-optimization-with-usememo-a-notes.md) |
+| `2026-10-16` | React Vite: Component Composition and Children Prop | Practice Questions | [View Resource](practice/2026-10-16-react-vite-component-composition-and-children-prop-practice.md) |
 | `2026-10-15` | Custom Hook for Form Input Handling | Practice Questions | [View Resource](practice/2026-10-15-react-vite-custom-hook-for-form-input-handling-practice.md) |
 | `2026-10-15` | Custom Hook for Form Input Handling | Notes & Interview Tips | [View Resource](notes/2026-10-15-react-vite-custom-hook-for-form-input-handling-notes.md) |
 | `2026-10-14` | React useEffect Side Effect Example | Practice Questions | [View Resource](practice/2026-10-14-react-vite-side-effects-with-useeffect-hook-practice.md) |
