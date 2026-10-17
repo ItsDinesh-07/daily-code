@@ -4,6 +4,7 @@
   "slug": "react-vite-performance-optimization-with-usememo-a",
   "target": 4,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
