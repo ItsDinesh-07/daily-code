@@ -4,6 +4,7 @@
   "slug": "javascript-promises-and-async-await-error-handling",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
