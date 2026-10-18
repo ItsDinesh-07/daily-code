@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 20)
+## 📚 Daily Code Index (Total: 21)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-10-18` | JavaScript Promises and Async/Await Error Handling | [View Code Snippet](daily/2026-10-18-javascript-promises-and-async-await-error-handling.md) |
 | `2026-10-17` | React Performance Optimization: useMemo and useCallback | [Code](daily/2026-10-17-react-vite-performance-optimization-with-usememo-a.md) · [Practice](extras/practice/2026-10-17-react-vite-performance-optimization-with-usememo-a-practice.md) · [Notes](extras/notes/2026-10-17-react-vite-performance-optimization-with-usememo-a-notes.md) |
 | `2026-10-16` | React Vite: Component Composition and Children Prop | [Code](daily/2026-10-16-react-vite-component-composition-and-children-prop.md) · [Practice](extras/practice/2026-10-16-react-vite-component-composition-and-children-prop-practice.md) |
 | `2026-10-15` | Custom Hook for Form Input Handling | [Code](daily/2026-10-15-react-vite-custom-hook-for-form-input-handling.md) · [Practice](extras/practice/2026-10-15-react-vite-custom-hook-for-form-input-handling-practice.md) · [Notes](extras/notes/2026-10-15-react-vite-custom-hook-for-form-input-handling-notes.md) |
