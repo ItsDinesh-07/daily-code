@@ -19,3 +19,4 @@ React (Vite): Custom Hook for Form Input Handling
 React (Vite): Component Composition and Children Prop
 React (Vite): Performance Optimization with useMemo and useCallback
 JavaScript: Promises and Async/Await Error Handling
+JavaScript: Array Methods (map, filter, reduce) Deep Dive

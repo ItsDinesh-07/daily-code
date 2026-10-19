@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 21)
+## 📚 Daily Code Index (Total: 22)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-10-19` | JavaScript: Array Methods (map, filter, reduce) Deep Dive | [View Code Snippet](daily/2026-10-19-javascript-array-methods-map-filter-reduce-deep-di.md) |
 | `2026-10-18` | JavaScript Promises and Async/Await Error Handling | [Code](daily/2026-10-18-javascript-promises-and-async-await-error-handling.md) · [Practice](extras/practice/2026-10-18-javascript-promises-and-async-await-error-handling-practice.md) |
 | `2026-10-17` | React Performance Optimization: useMemo and useCallback | [Code](daily/2026-10-17-react-vite-performance-optimization-with-usememo-a.md) · [Practice](extras/practice/2026-10-17-react-vite-performance-optimization-with-usememo-a-practice.md) · [Notes](extras/notes/2026-10-17-react-vite-performance-optimization-with-usememo-a-notes.md) |
 | `2026-10-16` | React Vite: Component Composition and Children Prop | [Code](daily/2026-10-16-react-vite-component-composition-and-children-prop.md) · [Practice](extras/practice/2026-10-16-react-vite-component-composition-and-children-prop-practice.md) |

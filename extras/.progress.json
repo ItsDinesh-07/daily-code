@@ -1,10 +1,9 @@
 {
-  "date": "2026-10-18",
-  "topic": "JavaScript: Promises and Async/Await Error Handling",
-  "slug": "javascript-promises-and-async-await-error-handling",
-  "target": 2,
+  "date": "2026-10-19",
+  "topic": "JavaScript: Array Methods (map, filter, reduce) Deep Dive",
+  "slug": "javascript-array-methods-map-filter-reduce-deep-di",
+  "target": 1,
   "done": [
-    "main",
-    "tests"
+    "main"
   ]
 }
