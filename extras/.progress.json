@@ -4,6 +4,7 @@
   "slug": "javascript-closures-and-lexical-scope",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
