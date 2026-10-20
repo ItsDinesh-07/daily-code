@@ -20,3 +20,4 @@ React (Vite): Component Composition and Children Prop
 React (Vite): Performance Optimization with useMemo and useCallback
 JavaScript: Promises and Async/Await Error Handling
 JavaScript: Array Methods (map, filter, reduce) Deep Dive
+JavaScript: Closures and Lexical Scope

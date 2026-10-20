@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-19",
-  "topic": "JavaScript: Array Methods (map, filter, reduce) Deep Dive",
-  "slug": "javascript-array-methods-map-filter-reduce-deep-di",
-  "target": 1,
+  "date": "2026-10-20",
+  "topic": "JavaScript: Closures and Lexical Scope",
+  "slug": "javascript-closures-and-lexical-scope",
+  "target": 2,
   "done": [
     "main"
   ]
