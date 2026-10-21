@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-10-21` | JavaScript: ES6 Modules and Exports | [View Code Snippet](daily/2026-10-21-javascript-es6-modules-and-exports.md) |
+| `2026-10-21` | JavaScript: ES6 Modules and Exports | [Code](daily/2026-10-21-javascript-es6-modules-and-exports.md) · [Practice](extras/practice/2026-10-21-javascript-es6-modules-and-exports-practice.md) |
 | `2026-10-20` | JavaScript: Closures and Lexical Scope | [Code](daily/2026-10-20-javascript-closures-and-lexical-scope.md) · [Practice](extras/practice/2026-10-20-javascript-closures-and-lexical-scope-practice.md) |
 | `2026-10-19` | JavaScript: Array Methods (map, filter, reduce) Deep Dive | [View Code Snippet](daily/2026-10-19-javascript-array-methods-map-filter-reduce-deep-di.md) |
 | `2026-10-18` | JavaScript Promises and Async/Await Error Handling | [Code](daily/2026-10-18-javascript-promises-and-async-await-error-handling.md) · [Practice](extras/practice/2026-10-18-javascript-promises-and-async-await-error-handling-practice.md) |

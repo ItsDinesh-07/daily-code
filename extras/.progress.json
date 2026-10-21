@@ -4,6 +4,7 @@
   "slug": "javascript-es6-modules-and-exports",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
