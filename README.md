@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-10-22` | JavaScript: Event Delegation Pattern | [Code](daily/2026-10-22-javascript-event-delegation-pattern.md) · [Practice](extras/practice/2026-10-22-javascript-event-delegation-pattern-practice.md) |
+| `2026-10-22` | JavaScript: Event Delegation Pattern | [Code](daily/2026-10-22-javascript-event-delegation-pattern.md) · [Practice](extras/practice/2026-10-22-javascript-event-delegation-pattern-practice.md) · [Notes](extras/notes/2026-10-22-javascript-event-delegation-pattern-notes.md) |
 | `2026-10-21` | JavaScript: ES6 Modules and Exports | [Code](daily/2026-10-21-javascript-es6-modules-and-exports.md) · [Practice](extras/practice/2026-10-21-javascript-es6-modules-and-exports-practice.md) |
 | `2026-10-20` | JavaScript: Closures and Lexical Scope | [Code](daily/2026-10-20-javascript-closures-and-lexical-scope.md) · [Practice](extras/practice/2026-10-20-javascript-closures-and-lexical-scope-practice.md) |
 | `2026-10-19` | JavaScript: Array Methods (map, filter, reduce) Deep Dive | [View Code Snippet](daily/2026-10-19-javascript-array-methods-map-filter-reduce-deep-di.md) |
