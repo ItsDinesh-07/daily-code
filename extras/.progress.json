@@ -4,6 +4,7 @@
   "slug": "javascript-event-delegation-pattern",
   "target": 3,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
