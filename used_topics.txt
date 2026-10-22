@@ -22,3 +22,4 @@ JavaScript: Promises and Async/Await Error Handling
 JavaScript: Array Methods (map, filter, reduce) Deep Dive
 JavaScript: Closures and Lexical Scope
 JavaScript: ES6 Modules and Exports
+JavaScript: Event Delegation Pattern
