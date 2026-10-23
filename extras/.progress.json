@@ -1,11 +1,9 @@
 {
-  "date": "2026-10-22",
-  "topic": "JavaScript: Event Delegation Pattern",
-  "slug": "javascript-event-delegation-pattern",
-  "target": 3,
+  "date": "2026-10-23",
+  "topic": "JavaScript: Debouncing and Throttling Functions",
+  "slug": "javascript-debouncing-and-throttling-functions",
+  "target": 2,
   "done": [
-    "main",
-    "tests",
-    "notes"
+    "main"
   ]
 }

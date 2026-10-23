@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 25)
+## 📚 Daily Code Index (Total: 26)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-10-23` | Debouncing and Throttling in JavaScript | [View Code Snippet](daily/2026-10-23-javascript-debouncing-and-throttling-functions.md) |
 | `2026-10-22` | JavaScript: Event Delegation Pattern | [Code](daily/2026-10-22-javascript-event-delegation-pattern.md) · [Practice](extras/practice/2026-10-22-javascript-event-delegation-pattern-practice.md) · [Notes](extras/notes/2026-10-22-javascript-event-delegation-pattern-notes.md) |
 | `2026-10-21` | JavaScript: ES6 Modules and Exports | [Code](daily/2026-10-21-javascript-es6-modules-and-exports.md) · [Practice](extras/practice/2026-10-21-javascript-es6-modules-and-exports-practice.md) |
 | `2026-10-20` | JavaScript: Closures and Lexical Scope | [Code](daily/2026-10-20-javascript-closures-and-lexical-scope.md) · [Practice](extras/practice/2026-10-20-javascript-closures-and-lexical-scope-practice.md) |
