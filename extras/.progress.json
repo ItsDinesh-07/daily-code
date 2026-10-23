@@ -4,6 +4,7 @@
   "slug": "javascript-debouncing-and-throttling-functions",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
