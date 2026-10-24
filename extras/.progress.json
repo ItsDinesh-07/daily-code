@@ -4,6 +4,7 @@
   "slug": "php-pdo-secure-database-connection",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
