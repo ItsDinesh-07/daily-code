@@ -5,6 +5,7 @@
   "target": 3,
   "done": [
     "main",
-    "tests"
+    "tests",
+    "notes"
   ]
 }

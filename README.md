@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-10-25` | PHP PDO: Prepared Statements for Preventing SQL Injection | [Code](daily/2026-10-25-php-pdo-prepared-statements-for-preventing-sql-inj.md) · [Practice](extras/practice/2026-10-25-php-pdo-prepared-statements-for-preventing-sql-inj-practice.md) |
+| `2026-10-25` | PHP PDO: Prepared Statements for Preventing SQL Injection | [Code](daily/2026-10-25-php-pdo-prepared-statements-for-preventing-sql-inj.md) · [Practice](extras/practice/2026-10-25-php-pdo-prepared-statements-for-preventing-sql-inj-practice.md) · [Notes](extras/notes/2026-10-25-php-pdo-prepared-statements-for-preventing-sql-inj-notes.md) |
 | `2026-10-24` | Secure Database Connection with PHP PDO | [Code](daily/2026-10-24-php-pdo-secure-database-connection.md) · [Practice](extras/practice/2026-10-24-php-pdo-secure-database-connection-practice.md) |
 | `2026-10-23` | Debouncing and Throttling in JavaScript | [Code](daily/2026-10-23-javascript-debouncing-and-throttling-functions.md) · [Practice](extras/practice/2026-10-23-javascript-debouncing-and-throttling-functions-practice.md) |
 | `2026-10-22` | JavaScript: Event Delegation Pattern | [Code](daily/2026-10-22-javascript-event-delegation-pattern.md) · [Practice](extras/practice/2026-10-22-javascript-event-delegation-pattern-practice.md) · [Notes](extras/notes/2026-10-22-javascript-event-delegation-pattern-notes.md) |
