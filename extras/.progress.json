@@ -4,6 +4,7 @@
   "slug": "php-pdo-prepared-statements-for-preventing-sql-inj",
   "target": 3,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
