@@ -1,10 +1,9 @@
 {
-  "date": "2026-10-24",
-  "topic": "PHP PDO: Secure Database Connection",
-  "slug": "php-pdo-secure-database-connection",
-  "target": 2,
+  "date": "2026-10-25",
+  "topic": "PHP PDO: Prepared Statements for Preventing SQL Injection",
+  "slug": "php-pdo-prepared-statements-for-preventing-sql-inj",
+  "target": 3,
   "done": [
-    "main",
-    "tests"
+    "main"
   ]
 }

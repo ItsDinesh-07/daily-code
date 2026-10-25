@@ -25,3 +25,4 @@ JavaScript: ES6 Modules and Exports
 JavaScript: Event Delegation Pattern
 JavaScript: Debouncing and Throttling Functions
 PHP PDO: Secure Database Connection
+PHP PDO: Prepared Statements for Preventing SQL Injection
