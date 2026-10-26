@@ -1,11 +1,9 @@
 {
-  "date": "2026-10-25",
-  "topic": "PHP PDO: Prepared Statements for Preventing SQL Injection",
-  "slug": "php-pdo-prepared-statements-for-preventing-sql-inj",
-  "target": 3,
+  "date": "2026-10-26",
+  "topic": "PHP PDO: Executing SELECT Queries and Fetching Data",
+  "slug": "php-pdo-executing-select-queries-and-fetching-data",
+  "target": 4,
   "done": [
-    "main",
-    "tests",
-    "notes"
+    "main"
   ]
 }
