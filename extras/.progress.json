@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-26",
-  "topic": "PHP PDO: Executing SELECT Queries and Fetching Data",
-  "slug": "php-pdo-executing-select-queries-and-fetching-data",
-  "target": 4,
+  "date": "2026-10-27",
+  "topic": "PHP PDO: Database Transactions with Commit and Rollback",
+  "slug": "php-pdo-database-transactions-with-commit-and-roll",
+  "target": 1,
   "done": [
     "main"
   ]

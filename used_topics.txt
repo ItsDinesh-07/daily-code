@@ -27,3 +27,4 @@ JavaScript: Debouncing and Throttling Functions
 PHP PDO: Secure Database Connection
 PHP PDO: Prepared Statements for Preventing SQL Injection
 PHP PDO: Executing SELECT Queries and Fetching Data
+PHP PDO: Database Transactions with Commit and Rollback
