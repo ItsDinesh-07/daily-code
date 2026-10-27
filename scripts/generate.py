@@ -1,3 +1,4 @@
+
 import json
 import os
 import random
@@ -400,13 +401,13 @@ def main() -> None:
     force = bool(os.getenv("FORCE"))
 
     today = date.today().isoformat()
+    DAILY_DIR.mkdir(exist_ok=True)
+    EXTRAS_DIR.mkdir(exist_ok=True)
+    PRACTICE_DIR.mkdir(parents=True, exist_ok=True)
+    NOTES_DIR.mkdir(parents=True, exist_ok=True)
+
     if dry_run:
         log(f"[DRY_RUN] Mode active: Skipping live Gemini API calls, progress file disk operations, and Git commits.")
-    else:
-        DAILY_DIR.mkdir(exist_ok=True)
-        EXTRAS_DIR.mkdir(exist_ok=True)
-        PRACTICE_DIR.mkdir(parents=True, exist_ok=True)
-        NOTES_DIR.mkdir(parents=True, exist_ok=True)
 
     target_commits = decide_target_commits(today)
     planned_steps = ALL_STEP_NAMES[:target_commits]

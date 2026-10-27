@@ -2,10 +2,15 @@ name: Daily Code Generator
 
 on:
   schedule:
-    # Runs daily at 04:30 UTC (10:00 AM IST)
+    # Runs daily at 04:30 UTC (10:00 AM IST) and 10:30 UTC (4:00 PM IST, backup)
     - cron: "30 4 * * *"
     - cron: "30 10 * * *"
   workflow_dispatch:
+    inputs:
+      send_test_email:
+        description: "Send a test email even if there are no new commits"
+        type: boolean
+        default: false
 
 concurrency:
   group: daily-code
@@ -38,6 +43,9 @@ jobs:
           git config user.name "ItsDinesh-07"
           git config user.email "149169666+ItsDinesh-07@users.noreply.github.com"
 
+      - name: Remember starting commit
+        run: echo "BEFORE_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+
       - name: Run code generation script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -53,3 +61,26 @@ jobs:
           git diff --cached --quiet || git commit -m "docs: add daily code snippet [$(date +'%Y-%m-%d')]"
           git pull --rebase
           git push
+
+      - name: Send success email
+        if: success()
+        continue-on-error: true
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          STATUS: success
+          FORCE_SEND: ${{ inputs.send_test_email && '1' || '0' }}
+          PYTHONUNBUFFERED: "1"
+        run: python scripts/send_email.py
+
+      - name: Send failure email
+        if: failure()
+        continue-on-error: true
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          STATUS: failure
+          PYTHONUNBUFFERED: "1"
+        run: python scripts/send_email.py
