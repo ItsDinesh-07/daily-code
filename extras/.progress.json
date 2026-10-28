@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-27",
-  "topic": "PHP PDO: Database Transactions with Commit and Rollback",
-  "slug": "php-pdo-database-transactions-with-commit-and-roll",
+  "date": "2026-10-28",
+  "topic": "PHP PDO: Inserting Records and Getting Last Insert ID",
+  "slug": "php-pdo-inserting-records-and-getting-last-insert-",
   "target": 1,
   "done": [
     "main"

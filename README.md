@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 30)
+## 📚 Daily Code Index (Total: 31)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-10-28` | PHP PDO: Inserting Records and Getting Last Insert ID | [View Code Snippet](daily/2026-10-28-php-pdo-inserting-records-and-getting-last-insert-.md) |
 | `2026-10-27` | PHP PDO Database Transactions | [View Code Snippet](daily/2026-10-27-php-pdo-database-transactions-with-commit-and-roll.md) |
 | `2026-10-26` | PHP PDO: Executing SELECT Queries and Fetching Data | [View Code Snippet](daily/2026-10-26-php-pdo-executing-select-queries-and-fetching-data.md) |
 | `2026-10-25` | PHP PDO: Prepared Statements for Preventing SQL Injection | [Code](daily/2026-10-25-php-pdo-prepared-statements-for-preventing-sql-inj.md) · [Practice](extras/practice/2026-10-25-php-pdo-prepared-statements-for-preventing-sql-inj-practice.md) · [Notes](extras/notes/2026-10-25-php-pdo-prepared-statements-for-preventing-sql-inj-notes.md) |

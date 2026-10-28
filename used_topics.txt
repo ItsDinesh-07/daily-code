@@ -28,3 +28,4 @@ PHP PDO: Secure Database Connection
 PHP PDO: Prepared Statements for Preventing SQL Injection
 PHP PDO: Executing SELECT Queries and Fetching Data
 PHP PDO: Database Transactions with Commit and Rollback
+PHP PDO: Inserting Records and Getting Last Insert ID
