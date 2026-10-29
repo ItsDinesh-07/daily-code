@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-28",
-  "topic": "PHP PDO: Inserting Records and Getting Last Insert ID",
-  "slug": "php-pdo-inserting-records-and-getting-last-insert-",
-  "target": 1,
+  "date": "2026-10-29",
+  "topic": "PHP PDO: Updating and Deleting Records Safely",
+  "slug": "php-pdo-updating-and-deleting-records-safely",
+  "target": 2,
   "done": [
     "main"
   ]
