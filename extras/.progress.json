@@ -4,6 +4,7 @@
   "slug": "php-pdo-updating-and-deleting-records-safely",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
