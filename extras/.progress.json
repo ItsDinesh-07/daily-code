@@ -4,6 +4,7 @@
   "slug": "firebase-firestore-crud-operations-in-javascript",
   "target": 4,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
