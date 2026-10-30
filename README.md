@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-10-30` | Firestore CRUD Operations in JavaScript | [Code](daily/2026-10-30-firebase-firestore-crud-operations-in-javascript.md) · [Practice](extras/practice/2026-10-30-firebase-firestore-crud-operations-in-javascript-practice.md) |
+| `2026-10-30` | Firestore CRUD Operations in JavaScript | [Code](daily/2026-10-30-firebase-firestore-crud-operations-in-javascript.md) · [Practice](extras/practice/2026-10-30-firebase-firestore-crud-operations-in-javascript-practice.md) · [Notes](extras/notes/2026-10-30-firebase-firestore-crud-operations-in-javascript-notes.md) |
 | `2026-10-29` | PHP PDO: Updating and Deleting Records Safely | [Code](daily/2026-10-29-php-pdo-updating-and-deleting-records-safely.md) · [Practice](extras/practice/2026-10-29-php-pdo-updating-and-deleting-records-safely-practice.md) |
 | `2026-10-28` | PHP PDO: Inserting Records and Getting Last Insert ID | [View Code Snippet](daily/2026-10-28-php-pdo-inserting-records-and-getting-last-insert-.md) |
 | `2026-10-27` | PHP PDO Database Transactions | [View Code Snippet](daily/2026-10-27-php-pdo-database-transactions-with-commit-and-roll.md) |
