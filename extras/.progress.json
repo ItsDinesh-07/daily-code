@@ -6,6 +6,7 @@
   "done": [
     "main",
     "tests",
-    "notes"
+    "notes",
+    "index"
   ]
 }
