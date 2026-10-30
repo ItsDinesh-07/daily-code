@@ -30,3 +30,4 @@ PHP PDO: Executing SELECT Queries and Fetching Data
 PHP PDO: Database Transactions with Commit and Rollback
 PHP PDO: Inserting Records and Getting Last Insert ID
 PHP PDO: Updating and Deleting Records Safely
+Firebase: Firestore CRUD Operations in JavaScript

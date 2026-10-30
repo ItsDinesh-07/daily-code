@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 32)
+## 📚 Daily Code Index (Total: 33)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-10-30` | Firestore CRUD Operations in JavaScript | [View Code Snippet](daily/2026-10-30-firebase-firestore-crud-operations-in-javascript.md) |
 | `2026-10-29` | PHP PDO: Updating and Deleting Records Safely | [Code](daily/2026-10-29-php-pdo-updating-and-deleting-records-safely.md) · [Practice](extras/practice/2026-10-29-php-pdo-updating-and-deleting-records-safely-practice.md) |
 | `2026-10-28` | PHP PDO: Inserting Records and Getting Last Insert ID | [View Code Snippet](daily/2026-10-28-php-pdo-inserting-records-and-getting-last-insert-.md) |
 | `2026-10-27` | PHP PDO Database Transactions | [View Code Snippet](daily/2026-10-27-php-pdo-database-transactions-with-commit-and-roll.md) |
