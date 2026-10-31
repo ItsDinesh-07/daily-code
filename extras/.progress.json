@@ -4,6 +4,7 @@
   "slug": "firebase-authentication-with-email-and-password",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
