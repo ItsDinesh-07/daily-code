@@ -1,12 +1,9 @@
 {
-  "date": "2026-10-30",
-  "topic": "Firebase: Firestore CRUD Operations in JavaScript",
-  "slug": "firebase-firestore-crud-operations-in-javascript",
-  "target": 4,
+  "date": "2026-10-31",
+  "topic": "Firebase: Authentication with Email and Password",
+  "slug": "firebase-authentication-with-email-and-password",
+  "target": 2,
   "done": [
-    "main",
-    "tests",
-    "notes",
-    "index"
+    "main"
   ]
 }
