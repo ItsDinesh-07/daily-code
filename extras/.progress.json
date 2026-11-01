@@ -4,6 +4,7 @@
   "slug": "firebase-realtime-database-listener-subscriptions",
   "target": 3,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
