@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-11-01` | Firebase Realtime Database Listener Subscriptions | [Code](daily/2026-11-01-firebase-realtime-database-listener-subscriptions.md) · [Practice](extras/practice/2026-11-01-firebase-realtime-database-listener-subscriptions-practice.md) |
+| `2026-11-01` | Firebase Realtime Database Listener Subscriptions | [Code](daily/2026-11-01-firebase-realtime-database-listener-subscriptions.md) · [Practice](extras/practice/2026-11-01-firebase-realtime-database-listener-subscriptions-practice.md) · [Notes](extras/notes/2026-11-01-firebase-realtime-database-listener-subscriptions-notes.md) |
 | `2026-10-31` | Firebase Email and Password Authentication | [Code](daily/2026-10-31-firebase-authentication-with-email-and-password.md) · [Practice](extras/practice/2026-10-31-firebase-authentication-with-email-and-password-practice.md) |
 | `2026-10-30` | Firestore CRUD Operations in JavaScript | [Code](daily/2026-10-30-firebase-firestore-crud-operations-in-javascript.md) · [Practice](extras/practice/2026-10-30-firebase-firestore-crud-operations-in-javascript-practice.md) · [Notes](extras/notes/2026-10-30-firebase-firestore-crud-operations-in-javascript-notes.md) |
 | `2026-10-29` | PHP PDO: Updating and Deleting Records Safely | [Code](daily/2026-10-29-php-pdo-updating-and-deleting-records-safely.md) · [Practice](extras/practice/2026-10-29-php-pdo-updating-and-deleting-records-safely-practice.md) |
