@@ -1,11 +1,9 @@
 {
-  "date": "2026-11-01",
-  "topic": "Firebase: Realtime Database Listener Subscriptions",
-  "slug": "firebase-realtime-database-listener-subscriptions",
-  "target": 3,
+  "date": "2026-11-02",
+  "topic": "Firebase: Firestore Querying and Filtering",
+  "slug": "firebase-firestore-querying-and-filtering",
+  "target": 1,
   "done": [
-    "main",
-    "tests",
-    "notes"
+    "main"
   ]
 }

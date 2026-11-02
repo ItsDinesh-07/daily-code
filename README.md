@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 35)
+## 📚 Daily Code Index (Total: 36)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-11-02` | Firebase Firestore Querying and Filtering | [View Code Snippet](daily/2026-11-02-firebase-firestore-querying-and-filtering.md) |
 | `2026-11-01` | Firebase Realtime Database Listener Subscriptions | [Code](daily/2026-11-01-firebase-realtime-database-listener-subscriptions.md) · [Practice](extras/practice/2026-11-01-firebase-realtime-database-listener-subscriptions-practice.md) · [Notes](extras/notes/2026-11-01-firebase-realtime-database-listener-subscriptions-notes.md) |
 | `2026-10-31` | Firebase Email and Password Authentication | [Code](daily/2026-10-31-firebase-authentication-with-email-and-password.md) · [Practice](extras/practice/2026-10-31-firebase-authentication-with-email-and-password-practice.md) |
 | `2026-10-30` | Firestore CRUD Operations in JavaScript | [Code](daily/2026-10-30-firebase-firestore-crud-operations-in-javascript.md) · [Practice](extras/practice/2026-10-30-firebase-firestore-crud-operations-in-javascript-practice.md) · [Notes](extras/notes/2026-10-30-firebase-firestore-crud-operations-in-javascript-notes.md) |
