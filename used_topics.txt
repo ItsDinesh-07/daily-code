@@ -34,3 +34,4 @@ Firebase: Firestore CRUD Operations in JavaScript
 Firebase: Authentication with Email and Password
 Firebase: Realtime Database Listener Subscriptions
 Firebase: Firestore Querying and Filtering
+SQL: INNER JOIN vs LEFT JOIN

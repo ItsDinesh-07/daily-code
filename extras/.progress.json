@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-02",
-  "topic": "Firebase: Firestore Querying and Filtering",
-  "slug": "firebase-firestore-querying-and-filtering",
+  "date": "2026-11-03",
+  "topic": "SQL: INNER JOIN vs LEFT JOIN",
+  "slug": "sql-inner-join-vs-left-join",
   "target": 1,
   "done": [
     "main"
