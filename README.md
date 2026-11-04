@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 37)
+## 📚 Daily Code Index (Total: 38)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-11-04` | SQL GROUP BY and HAVING Clause Aggregations | [View Code Snippet](daily/2026-11-04-sql-group-by-and-having-clause-aggregations.md) |
 | `2026-11-03` | SQL: INNER JOIN vs LEFT JOIN | [View Code Snippet](daily/2026-11-03-sql-inner-join-vs-left-join.md) |
 | `2026-11-02` | Firebase Firestore Querying and Filtering | [View Code Snippet](daily/2026-11-02-firebase-firestore-querying-and-filtering.md) |
 | `2026-11-01` | Firebase Realtime Database Listener Subscriptions | [Code](daily/2026-11-01-firebase-realtime-database-listener-subscriptions.md) · [Practice](extras/practice/2026-11-01-firebase-realtime-database-listener-subscriptions-practice.md) · [Notes](extras/notes/2026-11-01-firebase-realtime-database-listener-subscriptions-notes.md) |

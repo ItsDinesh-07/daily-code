@@ -35,3 +35,4 @@ Firebase: Authentication with Email and Password
 Firebase: Realtime Database Listener Subscriptions
 Firebase: Firestore Querying and Filtering
 SQL: INNER JOIN vs LEFT JOIN
+SQL: GROUP BY and HAVING Clause Aggregations

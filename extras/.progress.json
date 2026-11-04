@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-03",
-  "topic": "SQL: INNER JOIN vs LEFT JOIN",
-  "slug": "sql-inner-join-vs-left-join",
-  "target": 1,
+  "date": "2026-11-04",
+  "topic": "SQL: GROUP BY and HAVING Clause Aggregations",
+  "slug": "sql-group-by-and-having-clause-aggregations",
+  "target": 2,
   "done": [
     "main"
   ]
