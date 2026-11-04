@@ -4,6 +4,7 @@
   "slug": "sql-group-by-and-having-clause-aggregations",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
