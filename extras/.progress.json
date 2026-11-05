@@ -1,10 +1,9 @@
 {
-  "date": "2026-11-04",
-  "topic": "SQL: GROUP BY and HAVING Clause Aggregations",
-  "slug": "sql-group-by-and-having-clause-aggregations",
+  "date": "2026-11-05",
+  "topic": "SQL: Window Functions ROW_NUMBER and RANK",
+  "slug": "sql-window-functions-row-number-and-rank",
   "target": 2,
   "done": [
-    "main",
-    "tests"
+    "main"
   ]
 }

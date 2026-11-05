@@ -36,3 +36,4 @@ Firebase: Realtime Database Listener Subscriptions
 Firebase: Firestore Querying and Filtering
 SQL: INNER JOIN vs LEFT JOIN
 SQL: GROUP BY and HAVING Clause Aggregations
+SQL: Window Functions ROW_NUMBER and RANK
