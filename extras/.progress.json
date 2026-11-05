@@ -4,6 +4,7 @@
   "slug": "sql-window-functions-row-number-and-rank",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
