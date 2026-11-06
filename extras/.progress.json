@@ -4,6 +4,7 @@
   "slug": "sql-subqueries-and-common-table-expressions-ctes",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
