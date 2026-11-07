@@ -38,3 +38,4 @@ SQL: INNER JOIN vs LEFT JOIN
 SQL: GROUP BY and HAVING Clause Aggregations
 SQL: Window Functions ROW_NUMBER and RANK
 SQL: Subqueries and Common Table Expressions (CTEs)
+SQL: Database Indexing Strategies

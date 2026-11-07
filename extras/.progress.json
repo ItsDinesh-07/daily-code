@@ -1,10 +1,9 @@
 {
-  "date": "2026-11-06",
-  "topic": "SQL: Subqueries and Common Table Expressions (CTEs)",
-  "slug": "sql-subqueries-and-common-table-expressions-ctes",
-  "target": 2,
+  "date": "2026-11-07",
+  "topic": "SQL: Database Indexing Strategies",
+  "slug": "sql-database-indexing-strategies",
+  "target": 4,
   "done": [
-    "main",
-    "tests"
+    "main"
   ]
 }
