@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-11-07` | SQL Database Indexing Strategies | [View Code Snippet](daily/2026-11-07-sql-database-indexing-strategies.md) |
+| `2026-11-07` | SQL Database Indexing Strategies | [Code](daily/2026-11-07-sql-database-indexing-strategies.md) · [Practice](extras/practice/2026-11-07-sql-database-indexing-strategies-practice.md) |
 | `2026-11-06` | SQL Subqueries and Common Table Expressions | [Code](daily/2026-11-06-sql-subqueries-and-common-table-expressions-ctes.md) · [Practice](extras/practice/2026-11-06-sql-subqueries-and-common-table-expressions-ctes-practice.md) |
 | `2026-11-05` | SQL Window Functions: ROW_NUMBER and RANK | [Code](daily/2026-11-05-sql-window-functions-row-number-and-rank.md) · [Practice](extras/practice/2026-11-05-sql-window-functions-row-number-and-rank-practice.md) |
 | `2026-11-04` | SQL GROUP BY and HAVING Clause Aggregations | [Code](daily/2026-11-04-sql-group-by-and-having-clause-aggregations.md) · [Practice](extras/practice/2026-11-04-sql-group-by-and-having-clause-aggregations-practice.md) |
