@@ -4,6 +4,14 @@
 
 | Date | Topic | Resource | Link |
 | :--- | :--- | :--- | :--- |
+| `2026-11-07` | SQL Database Indexing Strategies | Practice Questions | [View Resource](practice/2026-11-07-sql-database-indexing-strategies-practice.md) |
+| `2026-11-07` | SQL Database Indexing Strategies | Notes & Interview Tips | [View Resource](notes/2026-11-07-sql-database-indexing-strategies-notes.md) |
+| `2026-11-06` | SQL Subqueries and Common Table Expressions | Practice Questions | [View Resource](practice/2026-11-06-sql-subqueries-and-common-table-expressions-ctes-practice.md) |
+| `2026-11-05` | SQL Window Functions: ROW_NUMBER and RANK | Practice Questions | [View Resource](practice/2026-11-05-sql-window-functions-row-number-and-rank-practice.md) |
+| `2026-11-04` | SQL GROUP BY and HAVING Clause Aggregations | Practice Questions | [View Resource](practice/2026-11-04-sql-group-by-and-having-clause-aggregations-practice.md) |
+| `2026-11-01` | Firebase Realtime Database Listener Subscriptions | Practice Questions | [View Resource](practice/2026-11-01-firebase-realtime-database-listener-subscriptions-practice.md) |
+| `2026-11-01` | Firebase Realtime Database Listener Subscriptions | Notes & Interview Tips | [View Resource](notes/2026-11-01-firebase-realtime-database-listener-subscriptions-notes.md) |
+| `2026-10-31` | Firebase Email and Password Authentication | Practice Questions | [View Resource](practice/2026-10-31-firebase-authentication-with-email-and-password-practice.md) |
 | `2026-10-30` | Firestore CRUD Operations in JavaScript | Practice Questions | [View Resource](practice/2026-10-30-firebase-firestore-crud-operations-in-javascript-practice.md) |
 | `2026-10-30` | Firestore CRUD Operations in JavaScript | Notes & Interview Tips | [View Resource](notes/2026-10-30-firebase-firestore-crud-operations-in-javascript-notes.md) |
 | `2026-10-29` | PHP PDO: Updating and Deleting Records Safely | Practice Questions | [View Resource](practice/2026-10-29-php-pdo-updating-and-deleting-records-safely-practice.md) |
