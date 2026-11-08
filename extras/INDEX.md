@@ -4,6 +4,8 @@
 
 | Date | Topic | Resource | Link |
 | :--- | :--- | :--- | :--- |
+| `2026-11-08` | Database Normalization (1NF, 2NF, 3NF) | Practice Questions | [View Resource](practice/2026-11-08-sql-database-normalization-1nf-2nf-3nf-practice.md) |
+| `2026-11-08` | Database Normalization (1NF, 2NF, 3NF) | Notes & Interview Tips | [View Resource](notes/2026-11-08-sql-database-normalization-1nf-2nf-3nf-notes.md) |
 | `2026-11-07` | SQL Database Indexing Strategies | Practice Questions | [View Resource](practice/2026-11-07-sql-database-indexing-strategies-practice.md) |
 | `2026-11-07` | SQL Database Indexing Strategies | Notes & Interview Tips | [View Resource](notes/2026-11-07-sql-database-indexing-strategies-notes.md) |
 | `2026-11-06` | SQL Subqueries and Common Table Expressions | Practice Questions | [View Resource](practice/2026-11-06-sql-subqueries-and-common-table-expressions-ctes-practice.md) |
