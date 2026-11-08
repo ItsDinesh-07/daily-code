@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-11-08` | Database Normalization (1NF, 2NF, 3NF) | [View Code Snippet](daily/2026-11-08-sql-database-normalization-1nf-2nf-3nf.md) |
+| `2026-11-08` | Database Normalization (1NF, 2NF, 3NF) | [Code](daily/2026-11-08-sql-database-normalization-1nf-2nf-3nf.md) · [Practice](extras/practice/2026-11-08-sql-database-normalization-1nf-2nf-3nf-practice.md) |
 | `2026-11-07` | SQL Database Indexing Strategies | [Code](daily/2026-11-07-sql-database-indexing-strategies.md) · [Practice](extras/practice/2026-11-07-sql-database-indexing-strategies-practice.md) · [Notes](extras/notes/2026-11-07-sql-database-indexing-strategies-notes.md) |
 | `2026-11-06` | SQL Subqueries and Common Table Expressions | [Code](daily/2026-11-06-sql-subqueries-and-common-table-expressions-ctes.md) · [Practice](extras/practice/2026-11-06-sql-subqueries-and-common-table-expressions-ctes-practice.md) |
 | `2026-11-05` | SQL Window Functions: ROW_NUMBER and RANK | [Code](daily/2026-11-05-sql-window-functions-row-number-and-rank.md) · [Practice](extras/practice/2026-11-05-sql-window-functions-row-number-and-rank-practice.md) |

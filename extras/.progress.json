@@ -4,6 +4,7 @@
   "slug": "sql-database-normalization-1nf-2nf-3nf",
   "target": 4,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
