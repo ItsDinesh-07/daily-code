@@ -1,12 +1,9 @@
 {
-  "date": "2026-11-08",
-  "topic": "SQL: Database Normalization (1NF, 2NF, 3NF)",
-  "slug": "sql-database-normalization-1nf-2nf-3nf",
-  "target": 4,
+  "date": "2026-11-09",
+  "topic": "DSA: Two Pointers Technique for Two Sum",
+  "slug": "dsa-two-pointers-technique-for-two-sum",
+  "target": 1,
   "done": [
-    "main",
-    "tests",
-    "notes",
-    "index"
+    "main"
   ]
 }

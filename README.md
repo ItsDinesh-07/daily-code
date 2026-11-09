@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 42)
+## 📚 Daily Code Index (Total: 43)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-11-09` | Two Pointers Technique for Two Sum | [View Code Snippet](daily/2026-11-09-dsa-two-pointers-technique-for-two-sum.md) |
 | `2026-11-08` | Database Normalization (1NF, 2NF, 3NF) | [Code](daily/2026-11-08-sql-database-normalization-1nf-2nf-3nf.md) · [Practice](extras/practice/2026-11-08-sql-database-normalization-1nf-2nf-3nf-practice.md) · [Notes](extras/notes/2026-11-08-sql-database-normalization-1nf-2nf-3nf-notes.md) |
 | `2026-11-07` | SQL Database Indexing Strategies | [Code](daily/2026-11-07-sql-database-indexing-strategies.md) · [Practice](extras/practice/2026-11-07-sql-database-indexing-strategies-practice.md) · [Notes](extras/notes/2026-11-07-sql-database-indexing-strategies-notes.md) |
 | `2026-11-06` | SQL Subqueries and Common Table Expressions | [Code](daily/2026-11-06-sql-subqueries-and-common-table-expressions-ctes.md) · [Practice](extras/practice/2026-11-06-sql-subqueries-and-common-table-expressions-ctes-practice.md) |
