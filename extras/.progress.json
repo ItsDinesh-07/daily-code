@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-09",
-  "topic": "DSA: Two Pointers Technique for Two Sum",
-  "slug": "dsa-two-pointers-technique-for-two-sum",
-  "target": 1,
+  "date": "2026-11-10",
+  "topic": "DSA: Sliding Window Approach for Maximum Subarray",
+  "slug": "dsa-sliding-window-approach-for-maximum-subarray",
+  "target": 3,
   "done": [
     "main"
   ]

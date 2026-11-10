@@ -41,3 +41,4 @@ SQL: Subqueries and Common Table Expressions (CTEs)
 SQL: Database Indexing Strategies
 SQL: Database Normalization (1NF, 2NF, 3NF)
 DSA: Two Pointers Technique for Two Sum
+DSA: Sliding Window Approach for Maximum Subarray
