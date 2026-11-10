@@ -4,6 +4,7 @@
   "slug": "dsa-sliding-window-approach-for-maximum-subarray",
   "target": 3,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
