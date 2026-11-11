@@ -4,6 +4,7 @@
   "slug": "dsa-binary-search-algorithm-implementation",
   "target": 3,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }

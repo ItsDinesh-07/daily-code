@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-11-11` | Binary Search Algorithm Implementation | [View Code Snippet](daily/2026-11-11-dsa-binary-search-algorithm-implementation.md) |
+| `2026-11-11` | Binary Search Algorithm Implementation | [Code](daily/2026-11-11-dsa-binary-search-algorithm-implementation.md) · [Practice](extras/practice/2026-11-11-dsa-binary-search-algorithm-implementation-practice.md) |
 | `2026-11-10` | Sliding Window: Maximum Sum Subarray | [Code](daily/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray.md) · [Practice](extras/practice/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray-practice.md) · [Notes](extras/notes/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray-notes.md) |
 | `2026-11-09` | Two Pointers Technique for Two Sum | [View Code Snippet](daily/2026-11-09-dsa-two-pointers-technique-for-two-sum.md) |
 | `2026-11-08` | Database Normalization (1NF, 2NF, 3NF) | [Code](daily/2026-11-08-sql-database-normalization-1nf-2nf-3nf.md) · [Practice](extras/practice/2026-11-08-sql-database-normalization-1nf-2nf-3nf-practice.md) · [Notes](extras/notes/2026-11-08-sql-database-normalization-1nf-2nf-3nf-notes.md) |
