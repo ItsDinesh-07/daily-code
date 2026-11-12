@@ -1,11 +1,9 @@
 {
-  "date": "2026-11-11",
-  "topic": "DSA: Binary Search Algorithm Implementation",
-  "slug": "dsa-binary-search-algorithm-implementation",
-  "target": 3,
+  "date": "2026-11-12",
+  "topic": "DSA: Valid Anagram Check using Hash Map",
+  "slug": "dsa-valid-anagram-check-using-hash-map",
+  "target": 2,
   "done": [
-    "main",
-    "tests",
-    "notes"
+    "main"
   ]
 }
