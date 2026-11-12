@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-11-12` | Valid Anagram Check (Hash Map) | [View Code Snippet](daily/2026-11-12-dsa-valid-anagram-check-using-hash-map.md) |
+| `2026-11-12` | Valid Anagram Check (Hash Map) | [Code](daily/2026-11-12-dsa-valid-anagram-check-using-hash-map.md) · [Practice](extras/practice/2026-11-12-dsa-valid-anagram-check-using-hash-map-practice.md) |
 | `2026-11-11` | Binary Search Algorithm Implementation | [Code](daily/2026-11-11-dsa-binary-search-algorithm-implementation.md) · [Practice](extras/practice/2026-11-11-dsa-binary-search-algorithm-implementation-practice.md) · [Notes](extras/notes/2026-11-11-dsa-binary-search-algorithm-implementation-notes.md) |
 | `2026-11-10` | Sliding Window: Maximum Sum Subarray | [Code](daily/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray.md) · [Practice](extras/practice/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray-practice.md) · [Notes](extras/notes/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray-notes.md) |
 | `2026-11-09` | Two Pointers Technique for Two Sum | [View Code Snippet](daily/2026-11-09-dsa-two-pointers-technique-for-two-sum.md) |

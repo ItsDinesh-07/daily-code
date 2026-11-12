@@ -4,6 +4,7 @@
   "slug": "dsa-valid-anagram-check-using-hash-map",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
