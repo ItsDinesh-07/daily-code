@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-11-13` | In-Place String Reversal | [Code](daily/2026-11-13-dsa-in-place-string-reversal.md) · [Practice](extras/practice/2026-11-13-dsa-in-place-string-reversal-practice.md) |
+| `2026-11-13` | In-Place String Reversal | [Code](daily/2026-11-13-dsa-in-place-string-reversal.md) · [Practice](extras/practice/2026-11-13-dsa-in-place-string-reversal-practice.md) · [Notes](extras/notes/2026-11-13-dsa-in-place-string-reversal-notes.md) |
 | `2026-11-12` | Valid Anagram Check (Hash Map) | [Code](daily/2026-11-12-dsa-valid-anagram-check-using-hash-map.md) · [Practice](extras/practice/2026-11-12-dsa-valid-anagram-check-using-hash-map-practice.md) |
 | `2026-11-11` | Binary Search Algorithm Implementation | [Code](daily/2026-11-11-dsa-binary-search-algorithm-implementation.md) · [Practice](extras/practice/2026-11-11-dsa-binary-search-algorithm-implementation-practice.md) · [Notes](extras/notes/2026-11-11-dsa-binary-search-algorithm-implementation-notes.md) |
 | `2026-11-10` | Sliding Window: Maximum Sum Subarray | [Code](daily/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray.md) · [Practice](extras/practice/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray-practice.md) · [Notes](extras/notes/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray-notes.md) |
