@@ -4,6 +4,7 @@
   "slug": "dsa-in-place-string-reversal",
   "target": 4,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
