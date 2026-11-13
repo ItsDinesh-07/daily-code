@@ -4,6 +4,13 @@
 
 | Date | Topic | Resource | Link |
 | :--- | :--- | :--- | :--- |
+| `2026-11-13` | In-Place String Reversal | Practice Questions | [View Resource](practice/2026-11-13-dsa-in-place-string-reversal-practice.md) |
+| `2026-11-13` | In-Place String Reversal | Notes & Interview Tips | [View Resource](notes/2026-11-13-dsa-in-place-string-reversal-notes.md) |
+| `2026-11-12` | Valid Anagram Check (Hash Map) | Practice Questions | [View Resource](practice/2026-11-12-dsa-valid-anagram-check-using-hash-map-practice.md) |
+| `2026-11-11` | Binary Search Algorithm Implementation | Practice Questions | [View Resource](practice/2026-11-11-dsa-binary-search-algorithm-implementation-practice.md) |
+| `2026-11-11` | Binary Search Algorithm Implementation | Notes & Interview Tips | [View Resource](notes/2026-11-11-dsa-binary-search-algorithm-implementation-notes.md) |
+| `2026-11-10` | Sliding Window: Maximum Sum Subarray | Practice Questions | [View Resource](practice/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray-practice.md) |
+| `2026-11-10` | Sliding Window: Maximum Sum Subarray | Notes & Interview Tips | [View Resource](notes/2026-11-10-dsa-sliding-window-approach-for-maximum-subarray-notes.md) |
 | `2026-11-08` | Database Normalization (1NF, 2NF, 3NF) | Practice Questions | [View Resource](practice/2026-11-08-sql-database-normalization-1nf-2nf-3nf-practice.md) |
 | `2026-11-08` | Database Normalization (1NF, 2NF, 3NF) | Notes & Interview Tips | [View Resource](notes/2026-11-08-sql-database-normalization-1nf-2nf-3nf-notes.md) |
 | `2026-11-07` | SQL Database Indexing Strategies | Practice Questions | [View Resource](practice/2026-11-07-sql-database-indexing-strategies-practice.md) |
