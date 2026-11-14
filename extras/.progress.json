@@ -1,12 +1,9 @@
 {
-  "date": "2026-11-13",
-  "topic": "DSA: In-Place String Reversal",
-  "slug": "dsa-in-place-string-reversal",
-  "target": 4,
+  "date": "2026-11-14",
+  "topic": "DSA: Recursion Basics and Call Stack Visualization",
+  "slug": "dsa-recursion-basics-and-call-stack-visualization",
+  "target": 2,
   "done": [
-    "main",
-    "tests",
-    "notes",
-    "index"
+    "main"
   ]
 }
