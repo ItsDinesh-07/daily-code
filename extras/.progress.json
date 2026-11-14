@@ -4,6 +4,7 @@
   "slug": "dsa-recursion-basics-and-call-stack-visualization",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
