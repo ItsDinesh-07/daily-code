@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 48)
+## 📚 Daily Code Index (Total: 49)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-11-15` | Linked List Reversal Algorithm | [View Code Snippet](daily/2026-11-15-dsa-linked-list-reversal-algorithm.md) |
 | `2026-11-14` | Recursion Basics and Call Stack Visualization | [Code](daily/2026-11-14-dsa-recursion-basics-and-call-stack-visualization.md) · [Practice](extras/practice/2026-11-14-dsa-recursion-basics-and-call-stack-visualization-practice.md) |
 | `2026-11-13` | In-Place String Reversal | [Code](daily/2026-11-13-dsa-in-place-string-reversal.md) · [Practice](extras/practice/2026-11-13-dsa-in-place-string-reversal-practice.md) · [Notes](extras/notes/2026-11-13-dsa-in-place-string-reversal-notes.md) |
 | `2026-11-12` | Valid Anagram Check (Hash Map) | [Code](daily/2026-11-12-dsa-valid-anagram-check-using-hash-map.md) · [Practice](extras/practice/2026-11-12-dsa-valid-anagram-check-using-hash-map-practice.md) |
