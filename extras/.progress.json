@@ -4,6 +4,7 @@
   "slug": "dsa-linked-list-reversal-algorithm",
   "target": 4,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
