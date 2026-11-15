@@ -4,6 +4,9 @@
 
 | Date | Topic | Resource | Link |
 | :--- | :--- | :--- | :--- |
+| `2026-11-15` | Linked List Reversal Algorithm | Practice Questions | [View Resource](practice/2026-11-15-dsa-linked-list-reversal-algorithm-practice.md) |
+| `2026-11-15` | Linked List Reversal Algorithm | Notes & Interview Tips | [View Resource](notes/2026-11-15-dsa-linked-list-reversal-algorithm-notes.md) |
+| `2026-11-14` | Recursion Basics and Call Stack Visualization | Practice Questions | [View Resource](practice/2026-11-14-dsa-recursion-basics-and-call-stack-visualization-practice.md) |
 | `2026-11-13` | In-Place String Reversal | Practice Questions | [View Resource](practice/2026-11-13-dsa-in-place-string-reversal-practice.md) |
 | `2026-11-13` | In-Place String Reversal | Notes & Interview Tips | [View Resource](notes/2026-11-13-dsa-in-place-string-reversal-notes.md) |
 | `2026-11-12` | Valid Anagram Check (Hash Map) | Practice Questions | [View Resource](practice/2026-11-12-dsa-valid-anagram-check-using-hash-map-practice.md) |
