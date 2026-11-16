@@ -4,6 +4,7 @@
   "slug": "dsa-binary-tree-inorder-traversal",
   "target": 3,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
