@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 49)
+## 📚 Daily Code Index (Total: 50)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-11-16` | Binary Tree Inorder Traversal | [View Code Snippet](daily/2026-11-16-dsa-binary-tree-inorder-traversal.md) |
 | `2026-11-15` | Linked List Reversal Algorithm | [Code](daily/2026-11-15-dsa-linked-list-reversal-algorithm.md) · [Practice](extras/practice/2026-11-15-dsa-linked-list-reversal-algorithm-practice.md) · [Notes](extras/notes/2026-11-15-dsa-linked-list-reversal-algorithm-notes.md) |
 | `2026-11-14` | Recursion Basics and Call Stack Visualization | [Code](daily/2026-11-14-dsa-recursion-basics-and-call-stack-visualization.md) · [Practice](extras/practice/2026-11-14-dsa-recursion-basics-and-call-stack-visualization-practice.md) |
 | `2026-11-13` | In-Place String Reversal | [Code](daily/2026-11-13-dsa-in-place-string-reversal.md) · [Practice](extras/practice/2026-11-13-dsa-in-place-string-reversal-practice.md) · [Notes](extras/notes/2026-11-13-dsa-in-place-string-reversal-notes.md) |

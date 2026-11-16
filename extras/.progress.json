@@ -1,12 +1,9 @@
 {
-  "date": "2026-11-15",
-  "topic": "DSA: Linked List Reversal Algorithm",
-  "slug": "dsa-linked-list-reversal-algorithm",
-  "target": 4,
+  "date": "2026-11-16",
+  "topic": "DSA: Binary Tree Inorder Traversal",
+  "slug": "dsa-binary-tree-inorder-traversal",
+  "target": 3,
   "done": [
-    "main",
-    "tests",
-    "notes",
-    "index"
+    "main"
   ]
 }
