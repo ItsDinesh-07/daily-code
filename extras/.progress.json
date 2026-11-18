@@ -4,6 +4,7 @@
   "slug": "dsa-queue-implementation-using-array",
   "target": 4,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
