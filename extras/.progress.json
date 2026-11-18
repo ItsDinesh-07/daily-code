@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-17",
-  "topic": "DSA: Stack Implementation and Application",
-  "slug": "dsa-stack-implementation-and-application",
-  "target": 1,
+  "date": "2026-11-18",
+  "topic": "DSA: Queue Implementation using Array",
+  "slug": "dsa-queue-implementation-using-array",
+  "target": 4,
   "done": [
     "main"
   ]
