@@ -4,6 +4,10 @@
 
 | Date | Topic | Resource | Link |
 | :--- | :--- | :--- | :--- |
+| `2026-11-18` | Queue Implementation using Array | Practice Questions | [View Resource](practice/2026-11-18-dsa-queue-implementation-using-array-practice.md) |
+| `2026-11-18` | Queue Implementation using Array | Notes & Interview Tips | [View Resource](notes/2026-11-18-dsa-queue-implementation-using-array-notes.md) |
+| `2026-11-16` | Binary Tree Inorder Traversal | Practice Questions | [View Resource](practice/2026-11-16-dsa-binary-tree-inorder-traversal-practice.md) |
+| `2026-11-16` | Binary Tree Inorder Traversal | Notes & Interview Tips | [View Resource](notes/2026-11-16-dsa-binary-tree-inorder-traversal-notes.md) |
 | `2026-11-15` | Linked List Reversal Algorithm | Practice Questions | [View Resource](practice/2026-11-15-dsa-linked-list-reversal-algorithm-practice.md) |
 | `2026-11-15` | Linked List Reversal Algorithm | Notes & Interview Tips | [View Resource](notes/2026-11-15-dsa-linked-list-reversal-algorithm-notes.md) |
 | `2026-11-14` | Recursion Basics and Call Stack Visualization | Practice Questions | [View Resource](practice/2026-11-14-dsa-recursion-basics-and-call-stack-visualization-practice.md) |
