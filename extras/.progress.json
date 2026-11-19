@@ -4,6 +4,7 @@
   "slug": "dsa-dynamic-programming-climbing-stairs-problem",
   "target": 3,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
