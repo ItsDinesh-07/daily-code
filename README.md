@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 52)
+## 📚 Daily Code Index (Total: 53)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-11-19` | Climbing Stairs (Dynamic Programming) | [View Code Snippet](daily/2026-11-19-dsa-dynamic-programming-climbing-stairs-problem.md) |
 | `2026-11-18` | Queue Implementation using Array | [Code](daily/2026-11-18-dsa-queue-implementation-using-array.md) · [Practice](extras/practice/2026-11-18-dsa-queue-implementation-using-array-practice.md) · [Notes](extras/notes/2026-11-18-dsa-queue-implementation-using-array-notes.md) |
 | `2026-11-17` | Stack Implementation and Balanced Brackets Application | [View Code Snippet](daily/2026-11-17-dsa-stack-implementation-and-application.md) |
 | `2026-11-16` | Binary Tree Inorder Traversal | [Code](daily/2026-11-16-dsa-binary-tree-inorder-traversal.md) · [Practice](extras/practice/2026-11-16-dsa-binary-tree-inorder-traversal-practice.md) · [Notes](extras/notes/2026-11-16-dsa-binary-tree-inorder-traversal-notes.md) |
