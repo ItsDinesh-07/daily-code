@@ -1,11 +1,9 @@
 {
-  "date": "2026-11-19",
-  "topic": "DSA: Dynamic Programming - Climbing Stairs Problem",
-  "slug": "dsa-dynamic-programming-climbing-stairs-problem",
-  "target": 3,
+  "date": "2026-11-20",
+  "topic": "DSA: Dynamic Programming - House Robber Problem",
+  "slug": "dsa-dynamic-programming-house-robber-problem",
+  "target": 4,
   "done": [
-    "main",
-    "tests",
-    "notes"
+    "main"
   ]
 }
