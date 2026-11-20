@@ -4,6 +4,10 @@
 
 | Date | Topic | Resource | Link |
 | :--- | :--- | :--- | :--- |
+| `2026-11-20` | House Robber Problem (Dynamic Programming) | Practice Questions | [View Resource](practice/2026-11-20-dsa-dynamic-programming-house-robber-problem-practice.md) |
+| `2026-11-20` | House Robber Problem (Dynamic Programming) | Notes & Interview Tips | [View Resource](notes/2026-11-20-dsa-dynamic-programming-house-robber-problem-notes.md) |
+| `2026-11-19` | Climbing Stairs (Dynamic Programming) | Practice Questions | [View Resource](practice/2026-11-19-dsa-dynamic-programming-climbing-stairs-problem-practice.md) |
+| `2026-11-19` | Climbing Stairs (Dynamic Programming) | Notes & Interview Tips | [View Resource](notes/2026-11-19-dsa-dynamic-programming-climbing-stairs-problem-notes.md) |
 | `2026-11-18` | Queue Implementation using Array | Practice Questions | [View Resource](practice/2026-11-18-dsa-queue-implementation-using-array-practice.md) |
 | `2026-11-18` | Queue Implementation using Array | Notes & Interview Tips | [View Resource](notes/2026-11-18-dsa-queue-implementation-using-array-notes.md) |
 | `2026-11-16` | Binary Tree Inorder Traversal | Practice Questions | [View Resource](practice/2026-11-16-dsa-binary-tree-inorder-traversal-practice.md) |
