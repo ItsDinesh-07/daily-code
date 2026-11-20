@@ -4,6 +4,7 @@
   "slug": "dsa-dynamic-programming-house-robber-problem",
   "target": 4,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
