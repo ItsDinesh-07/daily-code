@@ -52,3 +52,4 @@ DSA: Stack Implementation and Application
 DSA: Queue Implementation using Array
 DSA: Dynamic Programming - Climbing Stairs Problem
 DSA: Dynamic Programming - House Robber Problem
+DSA: Merge Sort Algorithm

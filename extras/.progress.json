@@ -1,12 +1,9 @@
 {
-  "date": "2026-11-20",
-  "topic": "DSA: Dynamic Programming - House Robber Problem",
-  "slug": "dsa-dynamic-programming-house-robber-problem",
-  "target": 4,
+  "date": "2026-11-21",
+  "topic": "DSA: Merge Sort Algorithm",
+  "slug": "dsa-merge-sort-algorithm",
+  "target": 1,
   "done": [
-    "main",
-    "tests",
-    "notes",
-    "index"
+    "main"
   ]
 }
