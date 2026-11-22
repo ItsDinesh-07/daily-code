@@ -4,6 +4,7 @@
   "slug": "dsa-quick-sort-partitioning-algorithm",
   "target": 3,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
