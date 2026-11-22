@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-21",
-  "topic": "DSA: Merge Sort Algorithm",
-  "slug": "dsa-merge-sort-algorithm",
-  "target": 1,
+  "date": "2026-11-22",
+  "topic": "DSA: Quick Sort Partitioning Algorithm",
+  "slug": "dsa-quick-sort-partitioning-algorithm",
+  "target": 3,
   "done": [
     "main"
   ]

@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 55)
+## 📚 Daily Code Index (Total: 56)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-11-22` | Quick Sort Partitioning (Lomuto Scheme) | [View Code Snippet](daily/2026-11-22-dsa-quick-sort-partitioning-algorithm.md) |
 | `2026-11-21` | Merge Sort Algorithm | [View Code Snippet](daily/2026-11-21-dsa-merge-sort-algorithm.md) |
 | `2026-11-20` | House Robber Problem (Dynamic Programming) | [Code](daily/2026-11-20-dsa-dynamic-programming-house-robber-problem.md) · [Practice](extras/practice/2026-11-20-dsa-dynamic-programming-house-robber-problem-practice.md) · [Notes](extras/notes/2026-11-20-dsa-dynamic-programming-house-robber-problem-notes.md) |
 | `2026-11-19` | Climbing Stairs (Dynamic Programming) | [Code](daily/2026-11-19-dsa-dynamic-programming-climbing-stairs-problem.md) · [Practice](extras/practice/2026-11-19-dsa-dynamic-programming-climbing-stairs-problem-practice.md) · [Notes](extras/notes/2026-11-19-dsa-dynamic-programming-climbing-stairs-problem-notes.md) |
