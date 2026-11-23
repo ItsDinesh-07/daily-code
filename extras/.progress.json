@@ -1,11 +1,9 @@
 {
-  "date": "2026-11-22",
-  "topic": "DSA: Quick Sort Partitioning Algorithm",
-  "slug": "dsa-quick-sort-partitioning-algorithm",
-  "target": 3,
+  "date": "2026-11-23",
+  "topic": "Git: Interactive Rebasing and Squashing Commits",
+  "slug": "git-interactive-rebasing-and-squashing-commits",
+  "target": 1,
   "done": [
-    "main",
-    "tests",
-    "notes"
+    "main"
   ]
 }
