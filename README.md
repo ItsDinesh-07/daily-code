@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-11-25` | Git: Stashing Changes and Branch Switching | [View Code Snippet](daily/2026-11-25-git-stashing-changes-and-branch-switching.md) |
+| `2026-11-25` | Git: Stashing Changes and Branch Switching | [Code](daily/2026-11-25-git-stashing-changes-and-branch-switching.md) · [Practice](extras/practice/2026-11-25-git-stashing-changes-and-branch-switching-practice.md) |
 | `2026-11-23` | Git: Interactive Rebasing and Squashing Commits | [View Code Snippet](daily/2026-11-23-git-interactive-rebasing-and-squashing-commits.md) |
 | `2026-11-22` | Quick Sort Partitioning (Lomuto Scheme) | [Code](daily/2026-11-22-dsa-quick-sort-partitioning-algorithm.md) · [Practice](extras/practice/2026-11-22-dsa-quick-sort-partitioning-algorithm-practice.md) · [Notes](extras/notes/2026-11-22-dsa-quick-sort-partitioning-algorithm-notes.md) |
 | `2026-11-21` | Merge Sort Algorithm | [View Code Snippet](daily/2026-11-21-dsa-merge-sort-algorithm.md) |

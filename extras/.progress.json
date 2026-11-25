@@ -4,6 +4,7 @@
   "slug": "git-stashing-changes-and-branch-switching",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
