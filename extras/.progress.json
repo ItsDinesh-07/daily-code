@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-23",
-  "topic": "Git: Interactive Rebasing and Squashing Commits",
-  "slug": "git-interactive-rebasing-and-squashing-commits",
-  "target": 1,
+  "date": "2026-11-25",
+  "topic": "Git: Stashing Changes and Branch Switching",
+  "slug": "git-stashing-changes-and-branch-switching",
+  "target": 2,
   "done": [
     "main"
   ]
