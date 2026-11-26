@@ -56,3 +56,4 @@ DSA: Merge Sort Algorithm
 DSA: Quick Sort Partitioning Algorithm
 Git: Interactive Rebasing and Squashing Commits
 Git: Stashing Changes and Branch Switching
+CSS Layouts: Flexbox Responsive Card Layout

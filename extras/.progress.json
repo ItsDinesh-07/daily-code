@@ -1,10 +1,9 @@
 {
-  "date": "2026-11-25",
-  "topic": "Git: Stashing Changes and Branch Switching",
-  "slug": "git-stashing-changes-and-branch-switching",
-  "target": 2,
+  "date": "2026-11-26",
+  "topic": "CSS Layouts: Flexbox Responsive Card Layout",
+  "slug": "css-layouts-flexbox-responsive-card-layout",
+  "target": 1,
   "done": [
-    "main",
-    "tests"
+    "main"
   ]
 }
