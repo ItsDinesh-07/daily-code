@@ -32,7 +32,7 @@
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
-| `2026-11-27` | CSS Grid Auto-Fit Responsive Layout | [View Code Snippet](daily/2026-11-27-css-layouts-css-grid-auto-fit-and-responsive-layou.md) |
+| `2026-11-27` | CSS Grid Auto-Fit Responsive Layout | [Code](daily/2026-11-27-css-layouts-css-grid-auto-fit-and-responsive-layou.md) · [Practice](extras/practice/2026-11-27-css-layouts-css-grid-auto-fit-and-responsive-layou-practice.md) |
 | `2026-11-26` | Flexbox Responsive Card Layout | [View Code Snippet](daily/2026-11-26-css-layouts-flexbox-responsive-card-layout.md) |
 | `2026-11-25` | Git: Stashing Changes and Branch Switching | [Code](daily/2026-11-25-git-stashing-changes-and-branch-switching.md) · [Practice](extras/practice/2026-11-25-git-stashing-changes-and-branch-switching-practice.md) |
 | `2026-11-23` | Git: Interactive Rebasing and Squashing Commits | [View Code Snippet](daily/2026-11-23-git-interactive-rebasing-and-squashing-commits.md) |

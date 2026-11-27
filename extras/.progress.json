@@ -4,6 +4,7 @@
   "slug": "css-layouts-css-grid-auto-fit-and-responsive-layou",
   "target": 2,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
