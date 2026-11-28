@@ -4,6 +4,7 @@
   "slug": "java-oop-inheritance-and-method-overriding",
   "target": 3,
   "done": [
-    "main"
+    "main",
+    "tests"
   ]
 }
