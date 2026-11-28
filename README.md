@@ -26,12 +26,13 @@
 
 ---
 
-## 📚 Daily Code Index (Total: 60)
+## 📚 Daily Code Index (Total: 61)
 
 > 💡 **Companion Practice & Notes:** Check the [📚 Extras Index](extras/INDEX.md) for practice questions and interview tips.
 
 | Date | Topic | Link |
 | :--- | :--- | :--- |
+| `2026-11-28` | Java Inheritance and Method Overriding | [View Code Snippet](daily/2026-11-28-java-oop-inheritance-and-method-overriding.md) |
 | `2026-11-27` | CSS Grid Auto-Fit Responsive Layout | [Code](daily/2026-11-27-css-layouts-css-grid-auto-fit-and-responsive-layou.md) · [Practice](extras/practice/2026-11-27-css-layouts-css-grid-auto-fit-and-responsive-layou-practice.md) |
 | `2026-11-26` | Flexbox Responsive Card Layout | [View Code Snippet](daily/2026-11-26-css-layouts-flexbox-responsive-card-layout.md) |
 | `2026-11-25` | Git: Stashing Changes and Branch Switching | [Code](daily/2026-11-25-git-stashing-changes-and-branch-switching.md) · [Practice](extras/practice/2026-11-25-git-stashing-changes-and-branch-switching-practice.md) |
